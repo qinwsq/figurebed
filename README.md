@@ -1,0 +1,2 @@
+# figurebed
+save figures
